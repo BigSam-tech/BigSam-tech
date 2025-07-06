@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @BigSam-tech
-- 👀 I’m interested in cyber secrity
-- 🌱 I’m currently learning computer language
-- 💞️ I’m looking to collaborate on how tech can be most 
-- 📫 How to reach me ...olawaleadedotun20@gmail.com
+- 👀 I’m interested in web design
+- 🌱 I’m currently learning javascript
+- 💞️ I’m looking to collaborate on how tech can be Advance
+- 📫 How to reach me ...bigsamtech1313@gmail.com
 - 😄 Pronouns: ...His
 - ⚡ Fun fact: ...I love game
 
